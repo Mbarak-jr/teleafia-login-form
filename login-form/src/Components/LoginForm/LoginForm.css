@@ -93,3 +93,20 @@
   font-weight: 700;
   cursor: pointer;
 }
+
+.remember{
+  display: flex;
+  margin: auto;
+
+}
+
+.lacking-account{
+  margin: auto;
+}
+
+.lacking-account span{
+  color: red;
+  cursor: pointer;
+
+}
+

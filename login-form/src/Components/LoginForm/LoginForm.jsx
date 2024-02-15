@@ -26,9 +26,14 @@ const [action,setAction] = useState("")
         </div>
       </div>
       <div className="forgot-password">Lost password? <span>Click Here!</span></div>
+      <div className="remember">
+        <input type="radio" />Remember me!
+      </div>
       <div className="submit-container">
         <div className="submit">Login</div>
       </div>
+      <div className="lacking-account">Don't have an account? <span>Sign Up</span></div>
+      
     </div>
   )
 }
