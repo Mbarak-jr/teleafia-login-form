@@ -3,7 +3,7 @@
   flex-direction: column;
   margin: auto;
   margin-top: 200px;
-  background: #fff;
+  background: #fcf4f4;
   padding-bottom: 30px;
   border: #4c00b4;
   width: 60%;
@@ -66,6 +66,7 @@
 
 .forgot-password{
   margin: auto;
+  margin-top: 30px;
 }
 
 .forgot-password span{
@@ -86,7 +87,7 @@
   width: 200px;
   height: 40px;
   color: black;
-  background-color: red;
+  background-color: #c00100;
   border-radius: 10px;
   margin: auto;
   font-size: 19px;
@@ -96,7 +97,9 @@
 
 .remember{
   display: flex;
-  margin: auto;
+  width: 100%;
+  margin-top: 30px;
+  margin-left: 100px;
 
 }
 
